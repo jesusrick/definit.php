@@ -10,7 +10,7 @@
 					$suma = $suma + $i;
 				}
 			}
-			echo "La suma vale: $suma";
+			echo "La ariketa vale: $suma";
 		?>
 	</body>
 </html>
